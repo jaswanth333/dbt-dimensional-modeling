@@ -1,0 +1,22 @@
+version: 2
+
+sources:
+  - name: src_postgres
+    database: AdventureWorks
+    schema: source
+    tables:
+      - name: businessentityaddress
+      - name: vw_countryregion
+      - name: customer
+      - name: address
+      - name: vw_person
+      - name: vw_product
+      - name: vw_productcategory
+      - name: vw_productsubcategory
+      - name: salesorderdetail
+      - name: vw_salesorderheader
+      - name: salesorderheadersalesreason
+      - name: vw_salesreason
+      - name: vw_salesterritory
+      - name: vw_stateprovince
+      - name: vw_store

@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: dimAddress
+    description: contains address information for the customers.
+  - name: dimOrderStatus
+  - name: dimProduct
+  - name: dimTerritory
+  - name: dimCustomer
+  - name: dimDate
+  - name: factSales

@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: stg_productcategory
+    description: 'product category'
+    columns:
+      - name: productcategoryid
+        tests:
+          - unique
+          - not_null              
