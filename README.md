@@ -53,7 +53,9 @@ Below image is the representation of final Model after transforming the raw data
 
   ## DBT Completed DAG
   ![image](data-lineage.png)
+  
 Try running the following commands:
+
 - dbt deps ( to run package dependencies)
 - dbt test ( to check for data quality)
 - dbt run ( to run and validate the models)
