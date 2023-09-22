@@ -53,7 +53,8 @@ Below image is the representation of final Model after transforming the raw data
 
   ## DBT Completed DAG
   ![image](data-lineage.png)
-<br>  
+<br>
+
 Try running the following commands:
 
 - dbt deps ( to run package dependencies)
