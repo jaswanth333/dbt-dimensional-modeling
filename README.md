@@ -1,5 +1,5 @@
 ## Dimensional Modeling with AdventureWorks data using Modern Data Stack  
-[Data Pipeline](data-pipeline.png)
+![data-pipeline](https://github.com/jaswanth333/dbt-dimensional-modeling/assets/21081464/5cd1bbef-04a8-4f42-8708-efa732ae7028)
 ## Project Setup
 You will need the following Tech Stack to run this project. 
 - Dataset [AdventureWorks2019](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
